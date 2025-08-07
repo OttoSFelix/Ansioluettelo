@@ -1,0 +1,34 @@
+html{
+    background-color: rgb(120, 149, 154);
+}
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.info-box {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.li1 {
+  content: "•";
+  color: #101e2d;
+  font-weight: bold;
+  display: inline-block;
+  margin-left: 1em;
+}
+
+.tiedot {
+    padding-left: 265px;
+}
